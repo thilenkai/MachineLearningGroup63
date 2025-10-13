@@ -1,0 +1,74 @@
+# ==========================
+# Python / Jupyter Settings
+# ==========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Jupyter auto-save files
+*.ipynb~
+*~.ipynb
+
+# ==========================
+# PDFs and Exports
+# ==========================
+
+# Ignore temporary or generated PDFs
+# (remove this line if you want to version-control final PDFs)
+*.pdf
+
+# LaTeX build files (if using nbconvert or similar)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# ==========================
+# System Files
+# ==========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==========================
+# Other Common Directories
+# ==========================
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Jupyter lab settings
+.jupyter/
+.lab/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
