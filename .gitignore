@@ -30,7 +30,7 @@ ENV/
 
 # Ignore temporary or generated PDFs
 # (remove this line if you want to version-control final PDFs)
-*.pdf
+# *.pdf
 
 # LaTeX build files (if using nbconvert or similar)
 *.aux
